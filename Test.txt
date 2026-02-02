@@ -1,1 +1,1 @@
-This is just a test File to test github and VS Code connection
+This is just a test File to test github and VS Code connection git --version
